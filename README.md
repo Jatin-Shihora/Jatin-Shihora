@@ -23,6 +23,7 @@
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/26e07f/android.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.cplusplus.com/"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -59,8 +60,8 @@
 ## Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/jatin-shihora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/Jatin-Shihora/"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
-<a href = "https://www.instagram.com/jatin_shihora/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/jatin-shihora/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/Jatin-Shihora/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+<a href = "https://www.instagram.com/jatin_shihora/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
