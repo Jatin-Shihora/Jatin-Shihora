@@ -26,7 +26,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.cplusplus.com/"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"  target="_blank"> <img src="https://img.icons8.com/office/16/000000/xml-file.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"  target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/xml.png"/> </a> 
     <a href="https://www.json.org/json-en.html"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/json-download.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
     <!--
