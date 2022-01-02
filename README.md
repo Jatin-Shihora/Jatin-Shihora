@@ -50,16 +50,16 @@
   <br/>
     <a href="https://github.com/Jatin-Shihora/github-readme-stats"><img alt="Jatin Shihora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jatin-Shihora&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Jatin-Shihora/github-readme-stats"><img alt="Jatin Shihora's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Shihora&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages that my public code has.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-Shihora&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jatin-Shihora&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jatin-Shihora&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jatin-Shihora&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jatin-Shihora&theme=solarized)
-
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages that my public code has.
-
 <br/>
 <br/>
 
