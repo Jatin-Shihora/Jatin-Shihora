@@ -61,6 +61,12 @@
 <br/>
 <br/>
 
+***
+### Some Trophies I have, don't know what for:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jatin-Shihora&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+***
+
 ## Connect with me:
 
 <p align="center">
