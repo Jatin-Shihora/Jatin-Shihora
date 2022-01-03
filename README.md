@@ -16,6 +16,8 @@
 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms
 
+- 🎓 To be graduated in 2023
+
 - 📫 How to reach me **jatinshihora0123@gmail.com**
 <!---
 - ⚡ Fun fact **I play E-games and go to the GYM very often.**
