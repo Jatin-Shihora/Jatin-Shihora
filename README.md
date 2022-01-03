@@ -2,17 +2,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jatin Shihora</h1>
-<h3 align="center">I'm a passionate Android Developer from India.</h3>
+<h3 align="center">I'm a passionate Softawre Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Product Inventory App](/)**
+- 🔭 I’m currently working on a **[Food ordering web app](/)**
 
-- 🌱 I’m currently learning **Mobile App Development and Web Development.**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My GithHub Profile](https://github.com/Jatin-Shihora)**
+- 😄 Employement ... Open for internships opportunities
+
+- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms
 
 - 📫 How to reach me **jatinshihora0123@gmail.com**
 <!---
