@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Food ordering web app](/)**
+- 🔭 I’m currently working on **[Android Recipe app](/) and a [Food ordering web app](/)**
 
 - 🌱 I’m currently learning **React.js**
 
