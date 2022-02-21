@@ -56,9 +56,6 @@
       <td align="center">React<br>
         <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
       </td>
-      <td align="center"> <span style="color:green">React Native</span><br>
-        <span align="center"><img src="https://raw.githubusercontent.com/ornikar/react-native-svg-transformer/HEAD/images/react-native-logo.png" width="48"/></span>
-      </td>
        <td align="center">MySQL<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
       </td>
