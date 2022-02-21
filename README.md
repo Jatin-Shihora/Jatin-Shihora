@@ -26,9 +26,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
+  
+      <a href="https://www.cplusplus.com/"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.cplusplus.com/"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://kotlinlang.org/docs/android-overview.html" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/26e07f/android.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
@@ -38,6 +40,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
+    <a href="https://reactjs.org/"  target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href=" https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> </a> 
 </p>
