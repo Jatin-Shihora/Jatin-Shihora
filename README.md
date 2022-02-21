@@ -53,6 +53,12 @@
       <td align="center">CSS<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" /></span>
         </td>
+      <td align="center">XML<br>
+        <span align="center"><img src="https://img.icons8.com/color-glass/48/000000/xml.png"/></span>
+      </td>
+      <td align="center">JSON<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/json-download.png"/> </span>
+      </td>
       <td align="center">MySQL<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
       </td>
