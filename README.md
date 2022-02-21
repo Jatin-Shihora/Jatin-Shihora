@@ -59,6 +59,85 @@
       <td align="center"> <span style="color:green">Kotlin</span><br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"/></span>
       </td>
+      <td align="center">React<br>
+        <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
+      </td>
+      <td align="center">Svelte<br>
+        <span align="center"><img src="https://img.icons8.com/doodle/64/000000/svetle.png"/></span>
+      <td align="center">
+        <span style="color:green">Node</span><br>
+        <span align="center"><img src="https://img.icons8.com/windows/32/000000/node-js.png"/></span>
+      </td>
+        <td align="center">Angular<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></span>
+        </td>
+        <td align="center">Express<br>
+        <span align="center"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/></span>
+        </td>
+        <td align="center">Next<br>
+        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="48"/></span>
+      </td>
+      <td align="center">Nest<br>
+        <span align="center"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" /></span>
+        </td>
+      <td align="center">Flask<br>
+        <span align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" /></span>
+        </td>
+        <td align="center">Tensorflow<br>
+        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" width="48"/></span>
+      </td>
+      <td>
+       <span style="color:green">OpenCV</span><br>
+        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width="48"/></span>
+      </td>
+      <td align="center"> <span style="color:green">React Native</span><br>
+        <span align="center"><img src="https://raw.githubusercontent.com/ornikar/react-native-svg-transformer/HEAD/images/react-native-logo.png" width="48"/></span>
+      </td>
+       <td align="center">MySQL<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
+      </td>
+        <td align="center">MongoDB<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></span>
+        </td>
+        <td align="center">Elastic Search<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/></span>
+        </td>
+        <td align="center">Firebase<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
+      </td>
+      <td align="center">Git<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/></span>
+      </td>
+        <td align="center">GitHub<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/github.png"/></span>
+        </td>
+        <td align="center">VSCode<br>
+        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48"/></span>
+        </td>
+        <td align="center">Postman<br>
+        <span align="center"><img src="https://www.pngrepo.com/download/306590/postman.png" width="48"/></span>
+      </td>
+      <td align="center">NPM<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
+      </td>
+      <td align="center">Anaconda<br>
+        <span align="center"><img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></span>
+      </td>
+      <td align="center">Docker<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/docker.png"/></span>
+      </td>
+      <td align="center">Android Studio<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></span>
+      </td>
+      <td align="center">Ardunio<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/arduino.png"/></span>
+      </td>
+      <td align="center">Raspberry Pi<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/></span>
+      </td>
+      <td align="center">Linux<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
+      </td>
     </tr>   
   </tbody>
 </table>
