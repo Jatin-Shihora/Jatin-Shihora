@@ -27,21 +27,41 @@
 
 <p align="center"> 
   
-      <a href="https://www.cplusplus.com/"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/26e07f/android.png"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"  target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/xml.png"/> </a> 
-    <a href="https://www.json.org/json-en.html"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/json-download.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href=" https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> </a> 
+<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<table>
+  <tbody>
+    <tr>
+      <td align="center">JavaScript<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
+      </td>
+        <td align="center">TypeScript<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/typescript--v1.png"/></span>
+        </td>
+        <td align="center">Python<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
+        </td>
+        <td align="center">HTML<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
+      </td>
+      <td align="center">CSS<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" /></span>
+        </td>
+      <td align="center">C<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/c-programming.png" /></span>
+        </td>
+        <td align="center">Java<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/java"/></span>
+      </td>
+      <td>
+       <span style="color:green">C++</span><br>
+        <span align="center"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48"/></span>
+      </td>
+      <td align="center"> <span style="color:green">Kotlin</span><br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"/></span>
+      </td>
+    </tr>   
+  </tbody>
+</table>
 </p>
 
 <br/>
