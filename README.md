@@ -77,14 +77,14 @@
       <td align="center">NPM<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
       </td>
-      <td align="center">Linux<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
-      </td>
       <td align="center">Git<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/></span>
       </td>
       <td align="center">GitHub<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/github.png"/></span>
+      </td>
+      <td align="center">Linux<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
       </td>
     </tr>   
   </tbody>
