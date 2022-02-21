@@ -53,32 +53,32 @@
       <td align="center">CSS<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" /></span>
         </td>
-      <td align="center">React<br>
-        <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
-      </td>
-       <td align="center">MySQL<br>
+      <td align="center">MySQL<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
-      </td>
-        <td align="center">Firebase<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
-      </td>
-      <td align="center">Git<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/></span>
-      </td>
-        <td align="center">GitHub<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/github.png"/></span>
-        </td>
-        <td align="center">VSCode<br>
-        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48"/></span>
-        </td>
-      <td align="center">NPM<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
       </td>
       <td align="center">Android Studio<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></span>
       </td>
+      <td align="center">React<br>
+        <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
+      </td>
+      <td align="center">Firebase<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
+      </td>
+        <td align="center">VSCode<br>
+        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48"/></span>
+      </td>
+      <td align="center">NPM<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
+      </td>
       <td align="center">Linux<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
+      </td>
+      <td align="center">Git<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/></span>
+      </td>
+      <td align="center">GitHub<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/github.png"/></span>
       </td>
     </tr>   
   </tbody>
