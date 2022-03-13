@@ -14,7 +14,7 @@
 
 - 😄 Employement ... Open for internships opportunities
 
-- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms
+
 
 - 🎓 To be graduated in 2023
 
