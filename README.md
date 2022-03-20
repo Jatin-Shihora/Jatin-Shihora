@@ -4,6 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jatin Shihora</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
+<!---
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Android Recipe app] and a [Food ordering web app]**
@@ -14,7 +15,7 @@
 
 - 😄 Employement ... Open for internships opportunities
 
-
+  --->
 
 - 🎓 To be graduated in 2023
 
@@ -65,9 +66,11 @@
       <td align="center">Android Studio<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></span>
       </td>
+ <!---
       <td align="center">React<br>
         <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
       </td>
+ --->
       <td align="center">Firebase<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
       </td>
