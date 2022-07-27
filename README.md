@@ -42,18 +42,22 @@
         <td align="center">Python<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
         </td>
+       <!--
       <td align="center">JavaScript<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
       </td>
+       --->
       <td align="center"> <span style="color:green">Kotlin</span><br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"/></span>
       </td>
+      <!--
         <td align="center">HTML<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
       </td>
       <td align="center">CSS<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" /></span>
         </td>
+       --->
       <td align="center">XML<br>
         <span align="center"><img src="https://img.icons8.com/color-glass/48/000000/xml.png"/></span>
       </td>
