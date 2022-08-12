@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jatinshihora0123@gmail.com**
 
-- ⚡ Want to know more about me, then go to my website ;) **https://jatinshihora.vercel.app/**
+- ⚡ Want to know more about me, then head out to my **website**<a href = "(https://jatinshihora.vercel.app/)" target="_blank"></a> ;) 
 
 
 ## 🚀 Languages and Tools:
