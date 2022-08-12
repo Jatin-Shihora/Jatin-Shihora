@@ -20,9 +20,9 @@
 - 🎓 To be graduated in 2023
 
 - 📫 How to reach me **jatinshihora0123@gmail.com**
-<!---
-- ⚡ Fun fact **I play E-games and go to the GYM very often.**
-  --->
+
+- ⚡ Want to know more about me, then go to my website ;) **https://jatinshihora.vercel.app/**
+
 
 ## 🚀 Languages and Tools:
 
