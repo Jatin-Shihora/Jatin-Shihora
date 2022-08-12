@@ -4,24 +4,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jatin Shihora</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
-<!---
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Android Recipe app] and a [Food ordering web app]**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 😄 Employement ... Open for internships opportunities
-
-  --->
 
 - 🎓 To be graduated in 2023
 
 - 📫 How to reach me **jatinshihora0123@gmail.com**
 
-- ⚡ Want to know more about me, then head out to my **website**<a href = "(https://jatinshihora.vercel.app/)" target="_blank"></a> ;) 
+- ⚡ Want to know more about me, then head out to [**my website ;)**](https://jatinshihora.vercel.app/) 
 
 
 ## 🚀 Languages and Tools:
