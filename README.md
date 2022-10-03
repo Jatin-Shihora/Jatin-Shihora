@@ -110,9 +110,6 @@
 <a href="https://github.com/Jatin-Shihora/github-readme-activity-graph"><img alt="Jatin Shihora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jatin-Shihora&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-
-![snake gif](https://github.com/Jatin-Shihora/Jatin-Shihora/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 ***
