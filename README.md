@@ -123,8 +123,5 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/jatin-shihora/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/Jatin-Shihora/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
-<a href = "mailto: jatinshihora0123@gmail.com"><img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/50/000000/external-mail-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png"/></a>
-<a href = "https://www.instagram.com/jatin_shihora/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
