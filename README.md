@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jatinshihora0123@gmail.com**
 
-- ⚡ Want to know more about me, then head out to [**my website ;)**](https://jatinshihora.vercel.app/) 
+- ⚡ Want to know more about me, then head out to [**my website ;)**](https://) 
 
 
 ## 🚀 Languages and Tools:
