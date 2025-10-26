@@ -1,50 +1,18 @@
-### 🧑‍💻 Hi, I’m **Jatin Shihora**
-I’m a **Software Developer** who enjoys building reliable systems, writing clean code, and exploring the intersection of backend performance and developer experience.
+# Jatin Shihora
 
-📫 Reach me at: **[jatinshihora0123@gmail.com](mailto:jatinshihora0123@gmail.com)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/jatin-shihora/) • [GitHub](https://github.com/Jatin-Shihora)
+I build systems that are reliable, fast, and easy to reason about.  
+Most of my work lives somewhere between backend engineering and distributed systems - APIs, tracing, concurrency, and failure recovery and I also like making applications that are sometimes scientific like deepblue-ai, or something that is fun like recipe app :)   
+I care about how things break, how they heal, and how to make those paths simpler. 
 
----
+I’ve spent the past few years working across different stacks - building microservices, experimenting with distributed ML pipelines, and writing a lot of glue code that keeps things running when they probably shouldn’t.
 
-### ⚙️ Tech Stack
+Sometimes I design official problems for LeetCode. Sometimes I just chase down a race condition until it gives up.
 
-**Languages:**  
-C++ • Java • Python • Kotlin • XML • JSON • SQL  
+I like clean architecture, thoughtful abstractions, and the kind of code you can still understand a year later.
 
-**Tools & Frameworks:**  
-Android Studio • Firebase • Git • GitHub • VSCode • Linux  
+Recently I’ve been exploring ways to connect architecture design with real-world reliability lessons from production, along with some side work around streaming content systems.
 
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin-Shihora&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Shihora&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Shihora&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-### 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jatin-Shihora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-### ✨ About Me
-
-I like to:
-- Solve challenging algorithmic problems  
-- Build and optimize backend services  
-- Learn new technologies and share what I learn  
-
----
-
-### 👁️ Profile Views  
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Jatin-Shihora&label=Views&color=blue&style=flat" alt="profile views"/></p>
+**Contact**  
+[jatinshihora0123@gmail.com](mailto:jatinshihora0123@gmail.com) (Preferred Contact Channel)  
+[linkedin.com/in/jatin-shihora](https://www.linkedin.com/in/jatin-shihora)  
+[jatinshihora.vercel.app](https://jatinshihora.vercel.app) 
