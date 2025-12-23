@@ -15,4 +15,4 @@ Recently I’ve been exploring ways to connect architecture design with real-wor
 **Contact**  
 [jatinshihora0123@gmail.com](mailto:jatinshihora0123@gmail.com) (Preferred Contact Channel)  
 [linkedin.com/in/jatin-shihora](https://www.linkedin.com/in/jatin-shihora)  
-[jatinshihora.vercel.app](https://jatinshihora.vercel.app) 
+[jatinshihora.com](https://www.jatinshihora.com/) 
